@@ -5,4 +5,3 @@ The project works by randomly sampling two subsets of size 100 from the NHANES d
 
 The results of the project show that the typical difference in mean systolic blood pressure between two samples of size 100 from the NHANES population is around 2.8 mmHg. This means that if two researchers were to study the same population, but each only had the resources to sample 100 participants, it is likely that their results would differ from each other by around 2.8 mmHg due to chance variation.
 
-The dataset used for this project is the NHANES 2015-2016 dataset, which can be accessed here.
